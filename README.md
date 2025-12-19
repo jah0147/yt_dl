@@ -39,4 +39,4 @@ Special thanks to the developers of the `os` and `path` modules in the Python St
 2. Install dependencies:
    ```bash
    py -m pip install yt-dlp
-3. Open a terminal/command-line in your scripts location and run 'python yt-dl.py'
+3. Open a terminal/command-line in your scripts location and run 'py yt-dl.py'
